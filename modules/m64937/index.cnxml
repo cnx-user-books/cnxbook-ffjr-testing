@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>FFJR Testing</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m64937</md:content-id>
+  <md:title>FFJR Testing</md:title>
+  <md:abstract/>
+  <md:uuid>da26e37b-d017-4dac-9747-e057b58ead99</md:uuid>
+</metadata>
+
+<content>
+  <para xmlns:cmlnle="http://katalysteducation.org/cmlnle/1.0" id="fs-idm362386976">
+  <term cmlnle:reference="this text SHOULD show up in the INDEX">this text should only show up in the content, NOT THE INDEX</term>
+</para>
+</content>
+
+</document>
